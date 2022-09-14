@@ -1,0 +1,12 @@
+.header{
+    display:flex;
+    justify-content: center;
+    margin:0;
+    background-color: rgb(59, 59, 237);
+    color:white;
+}
+.header-image img{
+    padding:0;
+    margin:0;
+
+}

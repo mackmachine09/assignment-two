@@ -1,0 +1,37 @@
+.card{
+    background-color:white;
+    color:white;
+}
+h3{
+    margin:0;
+    padding:10px;
+    background-color: aqua;
+}
+.card-stats img{
+    width:20px;
+    height:20px;
+}
+.card-stats p{
+    color:lightblue;
+    font-family:sans-serif;
+}
+.card-stats h4{
+    color:aliceblue;
+    font-family: monospace;
+}
+.card-stats{
+    margin:0;
+    padding:10px;
+    background-color: rgb(59,59,255);
+    display:flex;
+    justify-content:space-between;
+    padding:0rem 0.5rem;
+}
+.card-image img{
+    margin:0;
+    padding:1rem 1rem;
+    border-radius:2%;
+    height:100px;
+    width:100px;
+    background-color:navy;
+}
